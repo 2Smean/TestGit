@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>study 브랜치로 게시판 만드는중</h1>
 </body>
 </html>
